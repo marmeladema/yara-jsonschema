@@ -20,7 +20,7 @@ Installation
 Requirements
 ------------
 
-**yara-jsonschema** requires Python 3. It has been tested on Python 3.5 and 3.6 under Linux.
+**yara-jsonschema** requires Python 3. It has been tested on Python 3.6 under Linux.
 
 From github
 -----------
